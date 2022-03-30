@@ -35,6 +35,4 @@ Status
 Docs
 Contact GitHub
 Pricing
- <--
-**caio-action/caio-action** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-**-->
+
